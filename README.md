@@ -1,4 +1,4 @@
 git-sandbox
 ===========
 
-Experiment with Git
+Experiment with Git using GitHub
